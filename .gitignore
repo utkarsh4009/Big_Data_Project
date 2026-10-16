@@ -1,0 +1,23 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Large lecture modules (uncomment if you want to keep them local only)
+# Module*.pdf

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1792124441661,"sparkVersion":"4.2.0","uid":"StringIndexer_b4dc94a0634f","paramMap":{"handleInvalid":"keep","inputCol":"Road_traffic_density","outputCol":"Road_traffic_density_idx"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_b4dc94a0634f__output","stringOrderType":"frequencyDesc"}}
